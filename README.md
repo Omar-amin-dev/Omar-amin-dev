@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omar-amin-dev
 - 👀 I’m interested in Data Analysis,machine learning and SQL  
-- 🌱 I’m currently learning machine learing 
-- 💞️ I’m looking to collaborate on data analysis
+- 🌱 I’m currently learning DevOps 
+- 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me ,you can reach me on this profile and througth mail omarmohamedamin0793@gmail.com
 
 
